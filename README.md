@@ -6,8 +6,6 @@ Minimal example to finetune Google's Gemma 3 Instruct models with Unsloth using 
 - **Dataset**: FineTome-100k (ShareGPT-style multi-turn chats)
 - **Method**: Parameter-efficient LoRA (not full FT)
 
-Reference: Unsloth’s Gemma 3 notes: [unsloth.ai/blog/gemma3](https://unsloth.ai/blog/gemma3)
-
 ### Install
 
 ```bash

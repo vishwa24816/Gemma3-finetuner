@@ -1,4 +1,4 @@
-## 🦥 Finetune Gemma 3 with Unsloth (simple 4-bit LoRA)
+## Finetune Gemma 3 with Unsloth (for simple 4-bit LoRA)
 
 Minimal example to finetune Google's Gemma 3 Instruct models with Unsloth using 4-bit loading + LoRA. Small, readable, and runnable on a CUDA GPU.
 
